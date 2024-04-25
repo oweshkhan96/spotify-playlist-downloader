@@ -1,4 +1,6 @@
 # spotify-playlist-downloader
+Libraries need to be installed!!!!!!!
+spotipy,youtube-search-python,pytube
 This python program uses the spotify api to fetch user playlists and download those songs from youtube in mp3 format
 Change the spotify client id and client secret in the field to your own client id and secret respectively and run the program
 this will initiate a web page to allow the program to access your spotify account
