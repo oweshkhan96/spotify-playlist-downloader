@@ -11,8 +11,8 @@ from spotipy.oauth2 import SpotifyOAuth
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 # Spotify API credentials
-client_id = '67968b590a1842a4b66e3876d334d1e9'
-client_secret = 'c96393b55ebf4b02a6a99891a077348a'
+client_id = 'your client id'
+client_secret = 'your client secret'
 
 # Set up Spotify API access
 scope = "user-library-read"
